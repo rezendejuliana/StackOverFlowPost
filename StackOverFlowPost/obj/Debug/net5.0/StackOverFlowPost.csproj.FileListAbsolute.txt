@@ -1,0 +1,16 @@
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.exe
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.deps.json
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.runtimeconfig.json
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.runtimeconfig.dev.json
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.dll
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\ref\StackOverFlowPost.dll
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\bin\Debug\net5.0\StackOverFlowPost.pdb
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.csprojAssemblyReference.cache
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.dll
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\ref\StackOverFlowPost.dll
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.pdb
+C:\Users\Juliana\source\repos\StackOverFlowPost\StackOverFlowPost\obj\Debug\net5.0\StackOverFlowPost.genruntimeconfig.cache
